@@ -1,4 +1,4 @@
-# 🚀 Trendfold WebDesk
+# 🚀 TrendFold WebDesk 
 
 ## Building Digital Experiences
 
@@ -6,7 +6,7 @@ Trendfold WebDesk is a premium agency-focused Link-in-Bio website inspired by Li
 
 🌐 Live Website: https://trendfold.github.io/webdesk/
 
-> Inspired by Trendfold WebDesk  
+> Inspired by Trendfold Github
 > https://trendfold.qzz.io
 
 ---
