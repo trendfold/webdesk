@@ -4,7 +4,10 @@
 
 Trendfold WebDesk is a premium agency-focused Link-in-Bio website inspired by Linktree and enhanced with modern UI, advanced SEO, AI automation, branding, and conversion-focused design.
 
-🌐 Live Website: https://trendfold.qzz.io
+🌐 Live Website: https://trendfold.github.io/webdesk/
+
+> Inspired by Trendfold WebDesk  
+> https://trendfold.qzz.io
 
 ---
 
