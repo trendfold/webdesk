@@ -2,7 +2,7 @@
 
 ## Building Digital Experiences
 
-Trendfold WebDesk is a premium agency-focused Link-in-Bio website inspired by Linktree and enhanced with modern UI, advanced SEO, AI automation, branding, and conversion-focused designs.
+Trendfold WebDesk is a premium agency-focused Link-in-Bio website inspired by Linktree and enhanced with modern UI, advanced SEO, AI automation, branding, and conversion focused designs.
 
 🌐 Live Website: https://trendfold.github.io/webdesk/
 
